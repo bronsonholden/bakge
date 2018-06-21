@@ -1,0 +1,13 @@
+# Ignores
+build/*
+bin/*
+obj/*
+lib/*
+bakge.wiki/*
+*.swp # vim swap files
+sdk/* # SDK build output folder
+resource/*
+
+# Includes
+!*/CMakeLists.txt
+
